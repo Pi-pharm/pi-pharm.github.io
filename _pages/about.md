@@ -1,6 +1,6 @@
 ## Dr. Pi  
 **Herbal Drug Standardization • Medicinal Plant R&D • Ethnopharmacology & Digitalization**
-
+<img src="/images/profile pic.jpg" alt="Dr. Pi" style="max-width:240px;border-radius:12px;">
 I am a researcher and lecturer in Pharmaceutical Sciences with a focus on the scientific development, quality standardization, and translational application of herbal medicines in Vietnam and ASEAN.
 
 My research integrates:
