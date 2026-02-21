@@ -22,4 +22,4 @@ My research integrates:
 ---
 
 📍 Hanoi, Vietnam  
-✉️ pi.pharm@your-email  
+✉️ pi_pharm@outlook.com  
