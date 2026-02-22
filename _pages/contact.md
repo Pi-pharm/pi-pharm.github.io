@@ -4,7 +4,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-**Email:** pi.pharm@your-email  
+**Email:** pi_pharm@your-email  
 **Affiliation:** Hanoi University of Pharmacy   
 **Location:** Hanoi, Vietnam  
 
