@@ -1,6 +1,8 @@
 ---
-layout: home
+layout: single
+title: "Home"
 author_profile: true
+permalink: /
 ---
 
 Hi, I’m **Dr. Pi**. My work focuses on **herbal drug standardization**, **medicinal plant R&D**, and **ethnopharmacology & digitalization**.
