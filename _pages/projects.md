@@ -59,4 +59,4 @@ My research aims to bridge traditional medicinal knowledge with modern pharmaceu
 I welcome academic and industry collaboration in:
 - Herbal drug standardization
 - Analytical method development
-- Translational herbal product development
+- Translational herbal product development AAA
