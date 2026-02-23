@@ -1,18 +1,23 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
+  name        : "PHAM Tuan Anh"
   uri         : "https://name.com"
-  email       : "name@name.com"
+  email       : "pi_pharm@outlook.com"
   bio         : "This is the first name."
+    links:
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=YOUR_ID"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/YOUR-ORCID"
+    - label: "ResearchGate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/YOUR_NAME"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/YOUR_ID"
   avatar      : "bio-photo-2.jpg"
   twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
   google_plus : "Name"
